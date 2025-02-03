@@ -1,0 +1,3 @@
+*.pdf linguist-documentation
+*.tex linguist-documentation
+*.ipynb linguist-detectable=false
