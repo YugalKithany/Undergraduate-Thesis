@@ -1,4 +1,4 @@
-*.pdf linguist-documentation
-*.tex linguist-documentation
-*.ipynb linguist-detectable=false
 *.pdf linguist-vendored=false
+*.pdf linguist-detectable=false
+*.tex linguist-detectable=false
+*.ipynb linguist-detectable=false
