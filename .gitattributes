@@ -2,3 +2,4 @@
 *.pdf linguist-detectable=false
 *.tex linguist-detectable=false
 *.ipynb linguist-detectable=false
+*.png linguist-detectable=false
